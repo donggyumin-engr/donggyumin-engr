@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&customColorList=9)
 ### 👋 Hello, I'm Donggyu Min 👋
   
-##### Study together! #C-ITS #CAV #RL
+##### #C-ITS #CAV #RL
 ##### 🚗🚐🚌🚅🛴🚲🚶‍
 ##### If you have anything to discuss, please contact me: dgmin@snu.ac.kr
 
