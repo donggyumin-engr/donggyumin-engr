@@ -1,7 +1,6 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&customColorList=9)
-### 👋 Hello, I'm Donggyu Min 👋
   
 ##### #C-ITS #CAV #RL
 ##### 🚗🚐🚌🚅🛴🚲🚶‍
