@@ -1,12 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&customColorList=1&text=DGlab&animation=fadeIn&fontAlign=86&fontAlignY=45)
- 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&customColorList=6&text=DGlab&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+
 ##### #C-ITS #CAV #SUMO
-##### 🚗🚐🚌🚅🛴🚲🚶‍
+##### 🚗🚐🚌
 ##### If you have anything to discuss, please contact me: dgmin@snu.ac.kr
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&customColorList=1)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=footer&customColorList=6)
 
 </div>
 
