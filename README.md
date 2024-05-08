@@ -10,7 +10,7 @@ If you have anything to discuss, please contact me: dgmin@snu.ac.kr 🚗🚐🚌
 
 <br><br><be>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgmin)](https://solved.ac/donggyumin-engr)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Donggyu Min)](https://solved.ac/dgmin)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donggyumin-engr&show_icons=true&theme=synthwave)
 
